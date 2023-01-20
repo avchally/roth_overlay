@@ -12,3 +12,11 @@ Run the start.bat file or simply ```npm start``` to start the script.
 
 ## Important Notes
 The script relies on reading memory from the game, so the current memory addresses are configured only for Realms of the Haunting (UK Version 1.4) being run on DOSBox Version 0.74. This is the standard setup if you download the game from GoG or Steam.
+
+Here is a sample screenshot of the script. I would chroma key the background and use it as an overlay in OBS when recording videos.  
+*Also, I was not able to find the ingame values for speed, so all of the speed values are manually calculated and quite clunky, so this is an area for improvement.  
+
+![image](https://user-images.githubusercontent.com/65693071/213622154-bf6bef61-99aa-428c-9628-7e9c30dab374.png)
+
+## Shameless Plug
+Also, since you're here, check out my youtube channel for ROTH speedrunning 😄 https://www.youtube.com/@ChallexSM64
